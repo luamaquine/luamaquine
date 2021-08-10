@@ -4,7 +4,6 @@
 - 🌱 Estudando C# com unity
 - 📫 Contato: lmmds.snf20@uea.edu.br
 - 😄 Pronouns: ele/dele
-- ⚡ Fun fact: ...
 
 <div>
   <a href="https://github.com/luamaquine">
