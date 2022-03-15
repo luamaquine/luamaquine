@@ -2,7 +2,7 @@
 
 - 🔭 Trabalhando atualmente como bolsista em Ludus Lab
 - 🌱 Estudando C# com unity
-- 📚 3º Período de Sistemas de Informações
+- 📚 4º Período de Sistemas de Informações
 - 📫 Contato: lmmds.snf20@uea.edu.br
 - 😄 Pronouns: ele/dele
 
