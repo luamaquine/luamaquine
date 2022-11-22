@@ -1,10 +1,9 @@
 ### Olá, eu sou Luã Maquiné
 
 - 🔭 Trabalhando atualmente como bolsista em Ludus Lab
-- 🌱 Estudando C# com unity
-- 📚 4º Período de Sistemas de Informações
+- 🌱 Estudando C# com unity, JavaScript, node e react
+- 📚 6º Período de Sistemas de Informações
 - 📫 Contato: lmmds.snf20@uea.edu.br
-- 😄 Pronouns: ele/dele
 
 <div>
   <a href="https://github.com/luamaquine">
