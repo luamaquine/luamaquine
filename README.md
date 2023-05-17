@@ -1,8 +1,8 @@
 ### Olá, eu sou Luã Maquiné
 
-- 🔭 Trabalhando atualmente como bolsista em Ludus Lab
+- 🔭 Sem trabalho no momento
 - 🌱 Estudando C# com unity, JavaScript, node e react
-- 📚 6º Período de Sistemas de Informações
+- 📚 7º Período de Sistemas de Informações
 - 📫 Contato: lmmds.snf20@uea.edu.br
 </div>
   
